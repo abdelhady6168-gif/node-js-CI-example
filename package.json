@@ -1,0 +1,24 @@
+{
+  "name": "js-ci-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelhady6168-gif/node-js-CI-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abdelhady6168-gif/node-js-CI-example/issues"
+  },
+  "homepage": "https://github.com/abdelhady6168-gif/node-js-CI-example#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
